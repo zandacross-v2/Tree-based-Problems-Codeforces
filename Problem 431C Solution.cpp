@@ -5,7 +5,8 @@
 #define pq priority_queue
 #define MOD 1000000007
 using namespace std;
- 
+
+// Time Complexity: O(nk)
 int main(){
 	ll n,k,d;
 	cin >> n >> k >> d;
